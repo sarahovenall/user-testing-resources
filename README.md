@@ -1,6 +1,5 @@
-# user-testing-resources
-User testing resources from my talk "DIY User Testing"
-======================================================
+Resources from my talk "DIY User Testing"
+=========================================
 
 Drawing Software (site map & wireframe):
 ----------------------------------------
